@@ -1,5 +1,5 @@
 const func = () => {
-    return 1 + 2;
-}
+    return 2 + 2;
+};
 
 export {func};
