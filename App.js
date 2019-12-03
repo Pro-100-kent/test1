@@ -24,6 +24,10 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 
+import {
+  func
+} from 'src/components/FirstComponent';
+
 const App: () => React$Node = () => {
   return (
     <>
