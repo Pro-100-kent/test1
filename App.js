@@ -102,7 +102,7 @@ const styles = StyleSheet.create({
     fontWeight: '700',
   },
   footer: {
-    color: Colors.dark,
+    color: Colors.light,
     fontSize: 12,
     fontWeight: '600',
     padding: 4,
