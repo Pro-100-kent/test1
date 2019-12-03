@@ -28,6 +28,10 @@ import {
   func
 } from 'src/components/FirstComponent';
 
+import {
+    xyu
+} from 'src/components/SecondComponent';
+
 const App: () => React$Node = () => {
   return (
     <>
